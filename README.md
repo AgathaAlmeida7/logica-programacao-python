@@ -26,7 +26,7 @@ Este repositório será atualizado continuamente à medida que avanço nos estud
 ## 🚀 Tecnologias Utilizadas
 
 - [Python 3.x](https://www.python.org/)
-- Editor: VS Code / PyCharm / Jupyter Notebook (a depender do exercício)
+- Editor: VS Code 
 
 ---
 
